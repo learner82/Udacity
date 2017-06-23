@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/style_2">
+
+    <TextView
+        android:id="@+id/book_rating"
+        style="@style/style_1"
+        tools:text="@string/rate"/>
+
+    <LinearLayout
+        style="@style/style_item_textInfo">
+
+        <TextView
+            android:id="@+id/book_title"
+            style="@style/title_style"
+            tools:text="@string/title_str"/>
+
+        <TextView
+            android:id="@+id/book_author"
+            style="@style/authors_style"
+            android:text="@string/author"/>
+
+        <TextView
+            android:id="@+id/book_snippet"
+            style="@style/description_style"
+            tools:text="@string/desc_text"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/book_price"
+        style="@style/price_layout"
+        tools:text="@string/price_e"/>
+
+</LinearLayout>

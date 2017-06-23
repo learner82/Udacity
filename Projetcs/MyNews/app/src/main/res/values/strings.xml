@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MyNews</string>
+    <string name="no_internet">No internet Connection</string>
+    <string name="no_net">No Internet connection</string>
+
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/search_bar"
+        style="@style/style_search_bar">
+
+        <EditText
+            android:id="@+id/search_edit"
+            style="@style/style_editSearch"
+            android:hint="@string/search_the_book_library"/>
+
+        <ImageButton
+            android:id="@+id/search_button"
+            style="@style/style_search_button"
+            android:src="@drawable/ic_search_black_24dp"
+            tools:ignore="ContentDescription"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/explanation"
+        style="@style/style_headers_layout">
+
+        <TextView
+            style="@style/style_text"
+            android:layout_marginLeft="@dimen/dp8"
+            android:layout_marginStart="@dimen/dp8"
+            android:gravity="start"
+            android:text="@string/rating"/>
+
+        <TextView
+            style="@style/style_text"
+            android:gravity="center_horizontal"
+            android:text="@string/title_author_description"/>
+
+        <TextView
+            style="@style/style_text"
+            android:layout_marginEnd="@dimen/dp8"
+            android:layout_marginRight="@dimen/dp8"
+            android:gravity="end"
+            android:text="@string/price"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list"
+        style="@style/listView_style"/>
+
+    <TextView
+        android:id="@+id/empty_view"
+        style="@style/basic_Style"
+        android:layout_centerInParent="true"
+        android:textAppearance="?android:textAppearanceMedium"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="@style/basic_Style"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+</RelativeLayout>

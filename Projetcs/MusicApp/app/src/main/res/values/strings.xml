@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+
+    <string name="category_search">Search</string>
+
+    <string name="category_radio">Radio </string>
+
+    <string name="category_store">Store </string>
+    <string name="search_your_favorite_artist_album_song">Search your favorite artist, album, song!!!</string>
+    <string name="radio_station_old_radio">Here we will add a visual that shows a radio station as an old radio. Media player with android permition interner (stream) and wake_lock,as forjava define url new MediaPlayer with audiostreaming(set),datasource(set),prepare and start. Also add exceptions.</string>
+    <string name="radio_keypad_descr">Here we will place a key pad with digits so the user will decides which radio station wants to connect. Grid layout on xml with colums and buttons</string>
+    <string name="search_bar_descr">Here we will see the search results on a scrolling view</string>
+    <string name="top_10c_descr">Here there will be shown a list with the Top 10 of Country. Also we will create a ListView on xml and on java we will define an Array with 10 values(links) to show the list view. Define a new adapter and assign it to the ListView adding a Listener</string>
+    <string name="top_10e_descr">Here there will be shown a list with the Top 10 of Europe. Also we will create a ListView on xml and on java we will define an Array with 10 values(links) to show the list view. Define a new adapter and assign it to the ListView adding a Listener</string>
+</resources>

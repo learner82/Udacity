@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!--Sightseeing Names -->
+    <string name="acropolis">Parthenon,Acropolis of Athens</string>
+    <string name="acropolis_museum">Acropolis Museum</string>
+    <string name="archaeological_museum">National Archaeological Museum</string>
+    <string name="temple_of_zeus">Temple of Olympian Zeus</string>
+
+
+    <!--Sightseeing Descriptions -->
+    <string name="acropolis_desc">The Parthenon is located on the Acropolis on a hill that overlooks Athens. The temple was built to honor the goddess Athena Parthenos, the patron of Athens, to thank her for protecting the city during the Persian Wars. Originally designed by the famous sculptor Phidias, the Parthenon originally held all kinds of treasures, but the main attraction was a huge statue of Athena that was made out of chryselephantine also known as elephant ivory and gold. The Parthenon dates back to 447 BC, and it was actually built over another temple that is often referred to as the Pre-Parthenon.</string>
+    <string name="acro_museum_desc">The Acropolis Museum (Greek: Μουσείο Ακρόπολης, Mouseio Akropolis) is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens</string>
+    <string name="arch_museum_desc">The National Archaeological Museum (Greek: Εθνικό Αρχαιολογικό Μουσείο) in Athens houses some of the most important artifacts from a variety of archaeological locations around Greece from prehistory to late antiquity</string>
+    <string name="temple_zeus_desc">The Temple of Olympian Zeus (Greek: Ναός του Ολυμπίου Διός, Naos tou Olympiou Dios), also known as the Olympieion or Columns of the Olympian Zeus, is a monument of Greece </string>
+
+    <!-- Night Life -->
+    <string name="brettos_bar">Brettos Bar</string>
+    <string name="dalliance_house">The Dalliance House</string>
+    <string name="the_clumsies">The Clumsies</string>
+    <string name="baba_au_rum">BABA AU RUM</string>
+
+
+    <!-- Night Life Descriptions -->
+    <string name="brettos_bar_desc">The unsuspected visitor of the historic center of Athens cannot miss the hundreds of colorful bottles and lights that decorate the walls of "Brettos"</string>
+    <string name="dalliance_house_desc">It has a name and a history behind. It is located in Kifissia, one of the most</string>
+    <string name="the_clumsies_desc">Go back in time. Actually, go back to 2012. Make sure that two people, strangers till that point, Vassilis Kyritsis (Greek World Class Winner 2012)</string>
+    <string name="baba_desc">This is the place to taste quality cocktails blended with handselected spirits from all over the world</string>
+
+    <!-- Restaurants -->
+    <string name="barbaLazaros">Barba Lazaros</string>
+    <string name="lastrega">Lastrega</string>
+    <string name="psarades">Psarades</string>
+    <string name="trigwno">Trigwno</string>
+
+    <!-- Restaurants Description-->
+    <string name="barbaLazaros_desc">The history of the restaurant started when barba Lazaros at autunm of 1971 decided to bring at Palaio Faliro the delicacy of the original peinirli that he was cooking at his restaurant in Drosia</string>
+    <string name="lastrega_desc"> A mix of Italian-American style cuisin in large style, classic dishes that remind us a sunday visit to our grandmom house.</string>
+    <string name="psarades_desc">A restaurant that specialize in fish, refined cuisine with Mediterranean style and exceptional tastes. </string>
+    <string name="trigwno_desc"> An original style greek meat reastaurant with traditional cooking and exceptional tastes.</string>
+
+    <!-- Hotel -->
+    <string name="divani">Divani Caravel</string>
+    <string name="hilton">Hilton</string>
+    <string name="grandResort">Grand Resort Lagonisi</string>
+    <string name="megalhBretania">Great Bretagne</string>
+
+    <!-- Hotel Description -->
+    <string name="divani_desc">The Divani Caravel Hotel, member of the Leading Hotels of the World, offers luxury and style in the heart of the historical city of Athens, with easy access to the airport and the metro system.</string>
+    <string name="hilton_desc">Hilton Athens is more than a hotel - its a legacy. A favorite among locals and guests alike, our landmark hotel is a destination itself as the hub for Athens business, cultural and social life.</string>
+    <string name="grandResort_desc"> A Luxury Seafront Paradise combined with Idyllic Views to the Aegean.</string>
+    <string name="megalhBretania_desc">With breathtaking views of the fabled Acropolis, regal Syntagma Square and the Parliament, lush Lycabettus Hill or the original Olympic Stadium, the multi-awarded 5 star Hotel Grande Bretagne offers an unrivalled perspective of Athens mythical history.</string>
+
+
+    <string name="price">Price:</string>
+    <string name="sight_tab_name">Sightseeings</string>
+    <string name="night_tab_name">Night Life</string>
+    <string name="food_tab_name">Restaurants</string>
+    <string name="hotel_tab_name">Hotels</string>
+    <string name="textView_place_description">Description</string>
+    <string name="textView_place_name">Name</string>
+
+
+</resources>

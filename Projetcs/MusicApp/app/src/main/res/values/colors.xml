@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#4CAF50</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#388E3C</color>
+
+    <!-- Background color for app -->
+    <color name="main_background">#D7CCC8</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_search">#8800A0</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_radio">#16AFCA</color>
+
+    <!-- Background color for the store category -->
+    <color name="category_store">#FF3D00</color>
+</resources>

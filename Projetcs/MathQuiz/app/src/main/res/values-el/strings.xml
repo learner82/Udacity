@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="question1">Ερωτηση 1</string>
+    <string name="question2">Ερωτηση 2</string>
+    <string name="question3">Ερωτηση 3</string>
+    <string name="question4">Ερωτηση 4</string>
+    <string name="head_q1">lim[(e^x-1)/ημx]Ποιο είναι το όριο καθώς x τίνει στο 0;</string>
+    <string name="head_q2">lim[(1-συνx)/x^2]Ποιο είναι το όριο καθώς x τίνει στο 0;</string>
+    <string name="head_q3">Ποιες είναι οι προϋποθέσεις για να εφαρμοστεί το θεώρημα Rolle σε μια συνάρτηση f;</string>
+    <string name="head_q4">"Αν f:D->R, το σημείο z του D είναι τοπικό ακρότατο και η f είναι διαφορίσιμη στο z, τότε "</string>
+    <string name="intro">Αυτό το quiz σχεδιάστηκε για να εξετάσει τις γνώσεις σας σε κάποια πεδία των παραγώγων.</string>
+    <string name="welcome">Καλώς ήρθατε</string>
+</resources>
